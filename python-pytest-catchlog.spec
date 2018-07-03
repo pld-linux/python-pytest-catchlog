@@ -8,7 +8,7 @@ Summary:	py.test plugin to capture log messages
 Summary(pl.UTF-8):	Wtyczka py.test do przechwytywania logowanych komunikatów
 Name:		python-pytest-catchlog
 Version:	1.2.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/pytest-catchlog
